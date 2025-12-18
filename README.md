@@ -1,4 +1,4 @@
-# Arthur Leite Programming Portifolio
+# Arthur Leite | Programming Portifolio
 
 ## Term 1 Projects
 
